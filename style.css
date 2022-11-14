@@ -1,0 +1,252 @@
+    /************************/
+    /*      COULEURS        */
+    /************************/
+
+    .primary {
+        background-color: #3C625C        ;
+    }
+    .text-primary {
+      color: #3C625C      ;   
+    }
+    .secondary {
+        background-color: #A3B67B        ;
+    }
+    .text-secondary {
+      color: #A3B67B      ;   
+    }
+    .dark {
+        background-color: #242424;
+    }
+    .text-dark {
+      color: #242424;   
+    }
+    .medium-light {
+        background-color: #787878;
+    }
+    .text-medium-light {
+      color: #787878;   
+    }
+    .light {
+        background-color: #bcbcbc;
+    }
+    .text-light {
+      color: #bcbcbc;   
+    }
+    
+    /************************/
+    /*      BOUTONS        */
+    /************************/
+
+    .btn-primary {
+        background-color: #3C625C;
+        border: none;
+        border-radius: 4px ;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        display: inline-block;
+        font-size: 16px;
+      }
+      .btn-warning {
+        background-color: #965B2D;
+        border: none;
+        border-radius: 4px ;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        display: inline-block;
+        font-size: 16px;
+      }
+      .btn-danger {
+        background-color: #DC7B50;
+        border: none;
+        border-radius: 4px ;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        display: inline-block;
+        font-size: 16px;
+      }
+      .btn-info {
+        background-color: #CEE293;
+        border: none;
+        border-radius: 4px ;
+        color: #3C625C;
+        padding: 15px 32px;
+        text-align: center;
+        display: inline-block;
+        font-size: 16px;
+      }
+      .btn-success {
+        background-color: #DFE6AB;
+        border: none;
+        border-radius: 4px ;
+        color: #3C625C;
+        padding: 15px 32px;
+        text-align: center;
+        display: inline-block;
+        font-size: 16px;
+      }
+
+      .outline-primary {
+        background-color: white; 
+        border: 2px solid #3C625C;
+        color: #3C625C;
+        border-radius: 4px ;
+        padding: 15px 32px;
+        text-align: center;
+        display: inline-block;
+        font-size: 16px;
+      }
+      .outline-warning {
+        background-color: white; 
+        border: 2px solid #965B2D;
+        color: #965B2D;
+        border-radius: 4px ;
+        padding: 15px 32px;
+        text-align: center;
+        display: inline-block;
+        font-size: 16px;
+      }
+      .outline-danger {
+        background-color: white; 
+        border: 2px solid #DC7B50;
+        color: #DC7B50;
+        border-radius: 4px ;
+        padding: 15px 32px;
+        text-align: center;
+        display: inline-block;
+        font-size: 16px;
+      }
+      .outline-info {
+        background-color: white; 
+        border: 2px solid #CEE293;
+        color: #CEE293;
+        border-radius: 4px ;
+        padding: 15px 32px;
+        text-align: center;
+        display: inline-block;
+        font-size: 16px;
+      }
+      .outline-success {
+        background-color: white; 
+        border: 2px solid #DFE6AB;
+        color: #DFE6AB;
+        border-radius: 4px ;
+        padding: 15px 32px;
+        text-align: center;
+        display: inline-block;
+        font-size: 16px;
+      }
+
+      .sm-primary {
+        background-color: #3C625C ;
+        color: white;
+        border-radius: 4px ;
+        padding: 15px 32px;
+        text-align: center;
+        display: inline-block;
+        font-size: 12px;
+      }
+      .sm-warning {
+        background-color: #965B2D;
+        color: white;
+        border-radius: 4px ;
+        padding: 15px 32px;
+        text-align: center;
+        display: inline-block;
+        font-size: 12px;
+      }
+      .sm-danger {
+        background-color: #DC7B50;
+        color: white;
+        border-radius: 4px ;
+        padding: 15px 32px;
+        text-align: center;
+        display: inline-block;
+        font-size: 12px;
+      }
+      .sm-info {
+        background-color: #CEE293;
+        color: #3C625C ;
+        border-radius: 4px ;
+        padding: 15px 32px;
+        text-align: center;
+        display: inline-block;
+        font-size: 12px;
+      }
+      .sm-success {
+        background-color: #DFE6AB;
+        color: #3C625C ;
+        border-radius: 4px ;
+        padding: 15px 32px;
+        text-align: center;
+        display: inline-block;
+        font-size: 12px;
+      }
+
+      .lg-primary {
+        background-color: #3C625C        ;
+        color: white;
+        border-radius: 4px ;
+        padding: 15px 32px;
+        text-align: center;
+        display: inline-block;
+        font-size: 24px;
+      }
+      .lg-warning {
+        background-color: #965B2D;
+        color: white;
+        border-radius: 4px ;
+        padding: 15px 32px;
+        text-align: center;
+        display: inline-block;
+        font-size: 24px;
+      }
+      .lg-danger {
+        background-color: #DC7B50;
+        color: white;
+        border-radius: 4px ;
+        padding: 15px 32px;
+        text-align: center;
+        display: inline-block;
+        font-size: 24px;
+      }
+      .lg-info {
+        background-color: #CEE293;
+        color: #3C625C        ;
+        border-radius: 4px ;
+        padding: 15px 32px;
+        text-align: center;
+        display: inline-block;
+        font-size: 24px;
+      }
+      .lg-success {
+        background-color: #DFE6AB;
+        color: #3C625C;
+        border-radius: 4px ;
+        padding: 15px 32px;
+        text-align: center;
+        display: inline-block;
+        font-size: 24px;
+      }
+
+          /************************/
+          /*     TYPOGRAPHIE      */
+          /************************/
+
+      .h1 {
+        font-family: 'Montserrat', sans-serif;
+      }
+      .h2 {
+        font-family: 'Montserrat', sans-serif;
+      }
+      .h3 {
+        font-family: 'Montserrat', sans-serif;
+      }
+      .h4 {
+        font-family: 'Montserrat', sans-serif;
+      }
+      .paragraphe {
+        font-family: 'Montserrat', sans-serif;
+      }
